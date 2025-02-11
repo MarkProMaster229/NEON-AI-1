@@ -4,7 +4,7 @@ import torch.nn as nn
 import torch.optim as optim
 
 
-file_path = r"C:\Users\chelovek\PycharmProjects\NEON-AI-1\data.txt"#пара вопрос/ответ
+file_path = r"C:\твой\путь\к_этому_файлу\NEON-AI-1\data.txt"#пара вопрос/ответ
 model_path = "chatbot_model.pth"  # Путь для сохранения/загрузки модели
 
 print("Модель загружена!")
