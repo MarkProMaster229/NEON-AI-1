@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import time
 
 # URL главной страницы форума
-url = 'https://2ch.hk/b/res/316423571.html'
+url = 'https://2ch.hk/b'
 
 # Отправляем GET-запрос на главную страницу
 response = requests.get(url)
